@@ -2,7 +2,9 @@
 
 This application provides backend APIs for a hotel management system, including inventory management, booking flow, user authentication, and hotel browsing.
 
-![Swagger UI](.github/assets/swagger-ui.png)
+
+
+![StayEase Swagger](https://github.com/attachments/assets/181a8bd4-e7d4-4813-aa12-ff64226316f0)
 
 
 ## Features
