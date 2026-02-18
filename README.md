@@ -4,7 +4,8 @@ This application provides backend APIs for a hotel management system, including 
 
 
 
-![StayEase Swagger](https://github.com/attachments/assets/181a8bd4-e7d4-4813-aa12-ff64226316f0)
+![StayEase Swagger](images/swagger.png)
+
 
 
 ## Features
